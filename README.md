@@ -1,12 +1,7 @@
 # Hello, I'm Christian Spence! 👋
- [[params.social]]
-    icon = "linkedin"
-    icon_pack = "fa"
-    link = "[//linkedin.com/in/USERNAME](https://www.linkedin.com/in/christianspence-/)"
 
 Welcome to my GitHub profile. A striving business intelligence analyst with 6+ technical projects. My skills include business analytics, data visualization and storytelling with Tableau and Power BI, Microsoft Excel, and more.
 
-## About Me
 - 💼 Business Analytics enthusiast with expertise in Power BI, Tableau, SQL, and Microsoft Excel.
 - 📈 Proven track record in sales, successfully closing deals exceeding $10,000 for multiple businesses.
 - 🎓 Currently a Business Intelligence Analyst at TripleTen, specializing in online bootcamps with the highest graduation and employment rates in the industry.
