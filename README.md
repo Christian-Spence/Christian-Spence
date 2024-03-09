@@ -15,4 +15,4 @@ Welcome to my GitHub profile. A striving business intelligence analyst with 6+ t
 - Process Assessment | Marketing Strategies | Communication | Negotiation | Results-Driven
 - Adaptability | Analytical Thinking | Creativity | Value-Oriented Approach | Team Collaboration
 
-Feel free to explore my repositories, and don't hesitate to reach out if you have any questions or collaboration opportunities!
+Feel free to explore my analytical projects, and don't hesitate to reach out if you have any questions or collaboration opportunities!
