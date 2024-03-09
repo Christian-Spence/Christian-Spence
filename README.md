@@ -1,4 +1,7 @@
 # Hello, I'm Christian Spence! 👋
+[![GitHub](https://img.shields.io/badge/GitHub-Christian--Spence-brightgreen?style=flat-square&logo=github)](https://github.com/Christian-Spence)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/christianspence-/)
+[![Gmail](https://img.shields.io/badge/Gmail-Email-red?style=flat-square&logo=gmail)](mailto:christian.spence444@gmail.com)
 
 Welcome to my GitHub profile. A striving business intelligence analyst with 6+ technical projects. My skills include business analytics, data visualization and storytelling with Tableau and Power BI, Microsoft Excel, and more.
 
