@@ -15,8 +15,4 @@ Welcome to my GitHub profile. A striving business intelligence analyst with 6+ t
 - Process Assessment | Marketing Strategies | Communication | Negotiation | Results-Driven
 - Adaptability | Analytical Thinking | Creativity | Value-Oriented Approach | Team Collaboration
 
-## Contact
-- 📧 Email: christian.spence444@gmail.com
-- 🔗 LinkedIn: [Christian Jordan Spence](https://www.linkedin.com/in/christianspence-/)
-
 Feel free to explore my repositories, and don't hesitate to reach out if you have any questions or collaboration opportunities!
