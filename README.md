@@ -1,4 +1,8 @@
 # Hello, I'm Christian Spence! 👋
+ [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "[//linkedin.com/in/USERNAME](https://www.linkedin.com/in/christianspence-/)"
 
 Welcome to my GitHub profile. A striving business intelligence analyst with 6+ technical projects. My skills include business analytics, data visualization and storytelling with Tableau and Power BI, Microsoft Excel, and more.
 
