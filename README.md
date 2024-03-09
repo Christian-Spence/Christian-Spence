@@ -13,26 +13,6 @@ Welcome to my GitHub profile. A striving business intelligence analyst with 6+ t
 - Process Assessment | Marketing Strategies | Communication | Negotiation | Results-Driven
 - Adaptability | Analytical Thinking | Creativity | Value-Oriented Approach | Team Collaboration
 
-## Projects
-1. **Zomato Restaurant Analysis** 🍽️ (03/24): Analyzing business performance, visualizing data, and converting currencies for global insights.
-2. **E-Commerce Company Analytics** 🛍️ (12/23): Examining conversion rates, employing funnels and cohort analysis for strategic improvements.
-3. **Saving the Superstore Analysis** 💼 (12/23): Enhancing profitability through calculated charts and dashboards for data-driven decision-making.
-4. **Shopify App Analysis** 🛒 (02/23): Exploring key success factors through in-depth Power BI visualizations.
-5. **Saving the Superstore Through Returns** 🔄 (01/23): In-depth analysis on customer returns, developing comprehensive dashboards for strategic insights.
-
-## Experience
-- **Business Intelligence Analyst** at TripleTen | 12/23 - Present | Remote
-- **Sales Closer** at Remote Closing Academy | 11/22 - 12/23 | Freelance/Remote
-- **Enrollment Advisor** at Hesel Media | 10/23 - 12/23 | Freelance/Remote
-- **Enrollment Specialist** at Charged Up University | 05/23 - 10/23 | Freelance/Remote
-- **PR Manager** at HighKey Agency | 01/23 - 05/23 | Freelance/Remote
-- **Sales Specialist** at Sam’s Club | 10/21 - 11/22 | Full-Time/In Person
-
-## Education
-- **Business Analytics** at TripleTen | 12/23 - Present
-- **Remote Closing Academy** | 11/23 - 01/24
-- **Associates Degree in Finance** from Polk State College | 08/20 - 12/22
-
 ## Contact
 - 📧 Email: christian.spence444@gmail.com
 - 🔗 LinkedIn: [Christian Jordan Spence](https://www.linkedin.com/in/christianspence-/)
