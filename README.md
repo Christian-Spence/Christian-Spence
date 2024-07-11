@@ -7,6 +7,6 @@ Welcome to my GitHub profile. A business intelligence analyst & full-stack engin
 
 - 💼 Business Analytics enthusiast with expertise in Power BI, Tableau, SQL, and Microsoft Excel.
 - 📈 Proven track record in sales, successfully closing deals exceeding $10,000 for multiple businesses.
-- 🌐 Software guru with expertise in HTML 5, CSS, JavaScript, React.JS, Git, Github, NPM, Webpack, Babel, Rest API, Node.js., MongoDB, Google Cloud, and more.
+- 🌐 Software guru with expertise in HTML 5, CSS, JavaScript, React.JS, Git, Github, NPM, Webpack, Babel, Rest API, Node.js., MongoDB, Cloud Engineering, and more.
 
 Don't be shy to reach out to me. I am not restrictive about making friends or connections at all and don't hesitate to reach out if you have any questions or collaboration opportunities!
