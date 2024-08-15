@@ -1,4 +1,4 @@
-# Hello, I'm Christian Spence! 👋
+# Hello, I'm Christian Spence! 👋 Full-Stack Engineer & Business Analyst @ TripleTen
 [![GitHub](https://img.shields.io/badge/GitHub-Christian--Spence-brightgreen?style=flat-square&logo=github)](https://github.com/Christian-Spence)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ChristianSpence-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/christianspence-/)
 [![Gmail](https://img.shields.io/badge/Gmail-Christian.Spence444@gmail.com-red?style=flat-square&logo=gmail)](mailto:christian.spence444@gmail.com)
